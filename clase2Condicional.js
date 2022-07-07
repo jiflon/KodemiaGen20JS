@@ -92,3 +92,5 @@ switch(a)   {
     default:
         console.log('no es ni uno ni dos!')
 }
+
+//termino de sesion3 Clase2
