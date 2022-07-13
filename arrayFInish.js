@@ -48,7 +48,3 @@ nombre.forEach(element => {
 });
 
 console.log(newName);
-
-let user = ['Ferdinand','Jose','Maria','Dora'];
-
-let initial = 
