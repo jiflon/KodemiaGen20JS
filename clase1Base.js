@@ -1,4 +1,4 @@
-// ! Comentarios en Js Clase 1 primer session j
+// ! Comentarios en Js
 // Esto es un comentario
 
 /*
